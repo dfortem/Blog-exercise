@@ -1,0 +1,6 @@
+[submodule "blog-app"]
+	path = blog-app
+	url = git@github.com:dfortem/blog-app.git
+[submodule "Blog-api"]
+	path = Blog-api
+	url = git@github.com:dfortem/Blog-api.git
